@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8f33b97.css",
+    "main.css": "/static/css/main.af52f82a.css",
     "main.js": "/static/js/main.e0b5e126.js",
     "static/js/787.6ca17127.chunk.js": "/static/js/787.6ca17127.chunk.js",
     "static/media/Sonic06_cover_art.png": "/static/media/Sonic06_cover_art.41169fba0279939939f3.png",
@@ -20,12 +20,12 @@
     "index.html": "/index.html",
     "static/media/circles2.svg": "/static/media/circles2.db5b4342859690d9f006ddecb204ef4b.svg",
     "static/media/circles1.svg": "/static/media/circles1.c6d541ec78dd2ce9b79bf2f167caee05.svg",
-    "main.d8f33b97.css.map": "/static/css/main.d8f33b97.css.map",
+    "main.af52f82a.css.map": "/static/css/main.af52f82a.css.map",
     "main.e0b5e126.js.map": "/static/js/main.e0b5e126.js.map",
     "787.6ca17127.chunk.js.map": "/static/js/787.6ca17127.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8f33b97.css",
+    "static/css/main.af52f82a.css",
     "static/js/main.e0b5e126.js"
   ]
 }
