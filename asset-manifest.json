@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b440c19.css",
-    "main.js": "/static/js/main.cf16e357.js",
+    "main.css": "/static/css/main.4f77dc2d.css",
+    "main.js": "/static/js/main.6bac720a.js",
     "static/js/787.6ca17127.chunk.js": "/static/js/787.6ca17127.chunk.js",
     "static/media/Sonic06_cover_art.png": "/static/media/Sonic06_cover_art.41169fba0279939939f3.png",
     "static/media/devil-slayer-raksasi-pc-game-steam-cover.png": "/static/media/devil-slayer-raksasi-pc-game-steam-cover.ff7e3c1c66d3b320abb3.png",
@@ -16,16 +16,16 @@
     "static/media/logo.png": "/static/media/logo.03b431fe895c217ede33.png",
     "static/media/headendust.jpeg": "/static/media/headendust.856bef6a1c56004992f1.jpeg",
     "static/media/ResidentEvilRevelations.jpg": "/static/media/ResidentEvilRevelations.af153e1190311ce86b65.jpg",
-    "static/media/firstFeatureSvg.svg": "/static/media/firstFeatureSvg.76d115355d3d16b3bed738c0d73aa538.svg",
+    "static/media/firstFeatureSvg.svg": "/static/media/firstFeatureSvg.3fa16078efa644d1938eafb568e6eea2.svg",
     "index.html": "/index.html",
     "static/media/circles2.svg": "/static/media/circles2.db5b4342859690d9f006ddecb204ef4b.svg",
     "static/media/circles1.svg": "/static/media/circles1.c6d541ec78dd2ce9b79bf2f167caee05.svg",
-    "main.8b440c19.css.map": "/static/css/main.8b440c19.css.map",
-    "main.cf16e357.js.map": "/static/js/main.cf16e357.js.map",
+    "main.4f77dc2d.css.map": "/static/css/main.4f77dc2d.css.map",
+    "main.6bac720a.js.map": "/static/js/main.6bac720a.js.map",
     "787.6ca17127.chunk.js.map": "/static/js/787.6ca17127.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b440c19.css",
-    "static/js/main.cf16e357.js"
+    "static/css/main.4f77dc2d.css",
+    "static/js/main.6bac720a.js"
   ]
 }
