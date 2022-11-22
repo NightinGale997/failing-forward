@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8f33b97.css",
+    "main.js": "/static/js/main.e0b5e126.js",
+    "static/js/787.6ca17127.chunk.js": "/static/js/787.6ca17127.chunk.js",
+    "static/media/Sonic06_cover_art.png": "/static/media/Sonic06_cover_art.41169fba0279939939f3.png",
+    "static/media/devil-slayer-raksasi-pc-game-steam-cover.png": "/static/media/devil-slayer-raksasi-pc-game-steam-cover.ff7e3c1c66d3b320abb3.png",
+    "static/media/fireemblem.jpg": "/static/media/fireemblem.3286eca5213f47155be7.jpg",
+    "static/media/humanist521bt_roman.ttf": "/static/media/humanist521bt_roman.3120cc387fbf504bf7a0.ttf",
+    "static/media/JoJos_Bizarre_Adventure.jpg": "/static/media/JoJos_Bizarre_Adventure.c7cc0b4ab3790e16acef.jpg",
+    "static/media/AceAttorneyTrilogy.jpg": "/static/media/AceAttorneyTrilogy.045cb17d5a135c0aaddd.jpg",
+    "static/media/gunfirereborn.jpeg": "/static/media/gunfirereborn.0f3444a8bf2bbe617f9b.jpeg",
+    "static/media/sonic-riders.jpg": "/static/media/sonic-riders.f2cc45087441bf8e7b36.jpg",
+    "static/media/sonic-adventure.jpg": "/static/media/sonic-adventure.604889d044aee2f90453.jpg",
+    "static/media/Mercenaries_3D.png": "/static/media/Mercenaries_3D.89ea22282c43e6abff11.png",
+    "static/media/logo.png": "/static/media/logo.03b431fe895c217ede33.png",
+    "static/media/headendust.jpeg": "/static/media/headendust.856bef6a1c56004992f1.jpeg",
+    "static/media/ResidentEvilRevelations.jpg": "/static/media/ResidentEvilRevelations.af153e1190311ce86b65.jpg",
+    "static/media/firstFeatureSvg.svg": "/static/media/firstFeatureSvg.76d115355d3d16b3bed738c0d73aa538.svg",
+    "index.html": "/index.html",
+    "static/media/circles2.svg": "/static/media/circles2.db5b4342859690d9f006ddecb204ef4b.svg",
+    "static/media/circles1.svg": "/static/media/circles1.c6d541ec78dd2ce9b79bf2f167caee05.svg",
+    "main.d8f33b97.css.map": "/static/css/main.d8f33b97.css.map",
+    "main.e0b5e126.js.map": "/static/js/main.e0b5e126.js.map",
+    "787.6ca17127.chunk.js.map": "/static/js/787.6ca17127.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f33b97.css",
+    "static/js/main.e0b5e126.js"
+  ]
+}
