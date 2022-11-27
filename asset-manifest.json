@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.767da7d9.css",
-    "main.js": "/static/js/main.c9e65f5e.js",
-    "static/js/787.6ca17127.chunk.js": "/static/js/787.6ca17127.chunk.js",
-    "static/media/Sonic06_cover_art.png": "/static/media/Sonic06_cover_art.41169fba0279939939f3.png",
-    "static/media/devil-slayer-raksasi-pc-game-steam-cover.png": "/static/media/devil-slayer-raksasi-pc-game-steam-cover.ff7e3c1c66d3b320abb3.png",
+    "main.css": "/static/css/main.7eb1a280.css",
+    "main.js": "/static/js/main.9c67aff6.js",
+    "static/media/s_06.png": "/static/media/s_06.41169fba0279939939f3.png",
+    "static/media/dsr.png": "/static/media/dsr.ff7e3c1c66d3b320abb3.png",
     "static/media/fireemblem.jpg": "/static/media/fireemblem.3286eca5213f47155be7.jpg",
     "static/media/humanist521bt_roman.ttf": "/static/media/humanist521bt_roman.3120cc387fbf504bf7a0.ttf",
-    "static/media/JoJos_Bizarre_Adventure.jpg": "/static/media/JoJos_Bizarre_Adventure.c7cc0b4ab3790e16acef.jpg",
-    "static/media/AceAttorneyTrilogy.jpg": "/static/media/AceAttorneyTrilogy.045cb17d5a135c0aaddd.jpg",
-    "static/media/gunfirereborn.jpeg": "/static/media/gunfirereborn.0f3444a8bf2bbe617f9b.jpeg",
-    "static/media/sonic-riders.jpg": "/static/media/sonic-riders.f2cc45087441bf8e7b36.jpg",
-    "static/media/sonic-adventure.jpg": "/static/media/sonic-adventure.604889d044aee2f90453.jpg",
-    "static/media/Mercenaries_3D.png": "/static/media/Mercenaries_3D.89ea22282c43e6abff11.png",
+    "static/media/jojo.jpg": "/static/media/jojo.c7cc0b4ab3790e16acef.jpg",
+    "static/media/ace.jpg": "/static/media/ace.045cb17d5a135c0aaddd.jpg",
+    "static/media/gfr.jpeg": "/static/media/gfr.0f3444a8bf2bbe617f9b.jpeg",
+    "static/media/s_rid.jpg": "/static/media/s_rid.f2cc45087441bf8e7b36.jpg",
+    "static/media/s_adv.jpg": "/static/media/s_adv.604889d044aee2f90453.jpg",
+    "static/media/re_merc.png": "/static/media/re_merc.89ea22282c43e6abff11.png",
     "static/media/logo.png": "/static/media/logo.03b431fe895c217ede33.png",
-    "static/media/headendust.jpeg": "/static/media/headendust.856bef6a1c56004992f1.jpeg",
-    "static/media/ResidentEvilRevelations.jpg": "/static/media/ResidentEvilRevelations.af153e1190311ce86b65.jpg",
-    "static/media/firstFeatureSvg.svg": "/static/media/firstFeatureSvg.3fa16078efa644d1938eafb568e6eea2.svg",
+    "static/media/hd.jpeg": "/static/media/hd.856bef6a1c56004992f1.jpeg",
+    "static/media/re_rev.jpg": "/static/media/re_rev.af153e1190311ce86b65.jpg",
+    "static/media/featureIcon1.svg": "/static/media/featureIcon1.e64091a1a473fae7dc921ba777023d45.svg",
+    "static/media/featureIcon2.svg": "/static/media/featureIcon2.dd0b5213ee9a34d18a97c1b100f50ebe.svg",
+    "static/media/featureIcon3.svg": "/static/media/featureIcon3.e82fddab1775fdd25e9ff0a12efba25c.svg",
+    "static/media/circles.svg": "/static/media/circles.d9631b0ac8bb6656ead76a9eb8f0d2ab.svg",
     "index.html": "/index.html",
-    "static/media/circles2.svg": "/static/media/circles2.db5b4342859690d9f006ddecb204ef4b.svg",
-    "static/media/circles1.svg": "/static/media/circles1.c6d541ec78dd2ce9b79bf2f167caee05.svg",
-    "main.767da7d9.css.map": "/static/css/main.767da7d9.css.map",
-    "main.c9e65f5e.js.map": "/static/js/main.c9e65f5e.js.map",
-    "787.6ca17127.chunk.js.map": "/static/js/787.6ca17127.chunk.js.map"
+    "static/media/bg.svg": "/static/media/bg.f12cd7e1fc535b3e8858.svg",
+    "main.7eb1a280.css.map": "/static/css/main.7eb1a280.css.map",
+    "main.9c67aff6.js.map": "/static/js/main.9c67aff6.js.map"
   },
   "entrypoints": [
-    "static/css/main.767da7d9.css",
-    "static/js/main.c9e65f5e.js"
+    "static/css/main.7eb1a280.css",
+    "static/js/main.9c67aff6.js"
   ]
 }
